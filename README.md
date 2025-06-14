@@ -2,14 +2,14 @@
 
 This repository contains the code and analysis conducted during Laboratory Work 1 for studying the **human brain connectome**, inspired by the [Human Connectome Project](https://www.humanconnectome.org/). The work focuses on understanding the structure and characteristics of the brain graph using various **network science techniques**.
 
----
+
 
 ## 📊 Dataset Overview
 
 The dataset represents a structural connectome of the human brain at different resolutions.  
 Each node corresponds to a brain area, and each edge represents a structural connection between two areas of the brain.
 
----
+
 
 ##  Tools and Libraries Used
 
@@ -20,7 +20,7 @@ Each node corresponds to a brain area, and each edge represents a structural con
 - `plotly` – for interactive graph visualization
 - `collections`, `os`, and `typing` – for data handling
 
----
+
 
 ## Problem Breakdown and Analysis
 
